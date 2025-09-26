@@ -37,3 +37,4 @@ ekleyerek projeyi genişletmeyi planlıyorum.
 
 ```bash
 python main.py
+python alignment.py
