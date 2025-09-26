@@ -2,13 +2,16 @@
 
 Bu proje, biyoinformatik alanında kendimi geliştirmek için hazırladığım **temel bir örnektir**.  
 Çalışmada Biopython kütüphanesi kullanılarak BRCA1 insan DNA dizisi üzerinde temel analizler yapılmıştır:  
-
+## main.py 
+Bu çalışmada;
 - FASTA formatındaki bir genetik diziyi okuma  
 - DNA → RNA → Protein dönüşümleri  
 - Komplement, reverse complement işlemleri  
 - Aminoasit frekanslarının hesaplanması  
 - GC oranı analizi  
 - Basit görselleştirmeler (Matplotlib)  
+## alignment.py
+Bu çalışma DNA hizalama yöntemlerini öğrenmek amacıyla oluşturduğum bir çalışmadır.
 
 📌 Bu proje **öğrenme sürecimin ilk adımıdır**. İlerleyen dönemde:  
 - SNP (tek nükleotid polimorfizmi) analizleri  
